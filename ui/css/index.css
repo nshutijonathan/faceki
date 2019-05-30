@@ -1,0 +1,14 @@
+h2{
+	text-align: center;
+}
+.login{
+	text-align: center;
+	background-color: grey;
+}
+label{
+	padding: 30px 30px 40px 40px;
+	margin: 40px 20px ;
+}
+input{
+	margin: 10px 10px ;
+}
